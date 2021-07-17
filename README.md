@@ -1,2 +1,2 @@
 # Menu-Project
-Created a Responsive Cafe Menu using Javascript, CSS & by implementing Dynamic HTML 
+A Responsive Cafe Menu made using Javascript, CSS & by implementing Dynamic HTML 
